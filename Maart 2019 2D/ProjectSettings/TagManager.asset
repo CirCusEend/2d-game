@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Death
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -49,6 +52,9 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 30419213
+    locked: 0
+  - name: Lava
+    uniqueID: 3974045857
     locked: 0
   - name: Background
     uniqueID: 1003050857
