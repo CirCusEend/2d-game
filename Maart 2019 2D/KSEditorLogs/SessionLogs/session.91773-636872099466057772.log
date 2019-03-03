@@ -1,0 +1,30 @@
+2019-03-03 11:39:06.7932 [DEBUG] Validating model...
+2019-03-03 11:39:06.9907 [DEBUG] Model updated
+2019-03-03 11:39:06.9907 [DEBUG] Authenticating with server...
+2019-03-03 11:39:07.5165 [DEBUG] Connected to room. (91773:SceneFusion:SceneFusion)
+2019-03-03 11:39:07.5205 [INFO] Connected to server.
+2019-03-03 11:39:07.5205 [DEBUG] OS : Microsoft Windows NT 10.0.17134.0
+2019-03-03 11:39:07.5205 [DEBUG] Unity Version : 2018.2.15f1
+2019-03-03 11:39:07.5205 [DEBUG] Pro License : False
+2019-03-03 11:39:07.5215 [DEBUG] Platform : WindowsEditor
+2019-03-03 11:39:07.5215 [DEBUG] Build Target : StandaloneWindows64
+2019-03-03 11:39:07.5215 [DEBUG] Scene Fusion version : 1.8.2
+2019-03-03 11:39:07.5215 [DEBUG] Scene Fusion client build : 1
+2019-03-03 11:39:07.5215 [DEBUG] User : max.arts@outlook.com
+2019-03-03 11:39:07.5215 [DEBUG] Waiting for server response
+2019-03-03 11:39:07.6482 [DEBUG] Tier: Scene Fusion Free, Permissions: 00001400
+2019-03-03 11:39:07.6492 [DEBUG] User Permissions: FFFFFFFF
+2019-03-03 11:39:09.0921 [DEBUG] No stand-in for UnityEngine.ProceduralMaterial
+2019-03-03 11:39:09.0921 [DEBUG] No stand-in for UnityEngine.ProceduralTexture
+2019-03-03 11:39:10.5708 [DEBUG] Uploading scene 'Untitled'
+2019-03-03 11:39:10.6237 [DEBUG] Spawn request. (Objects: 2)
+2019-03-03 11:39:10.8598 [DEBUG] Loading complete
+2019-03-03 11:39:49.5435 [DEBUG] Spawn request. (Objects: 1)
+2019-03-03 11:40:33.6151 [DEBUG] Spawn request. (Objects: 1)
+2019-03-03 11:41:45.1692 [DEBUG] Spawn request. (Objects: 1)
+2019-03-03 11:42:27.8066 [DEBUG] Spawn request. (Objects: 1)
+2019-03-03 11:47:44.7378 [WARNING] Unable to load prefab 'Assets/Prefabs/Player.prefab'.
+2019-03-03 11:50:24.3932 [DEBUG] Disconnecting temporarily to recompile.
+2019-03-03 11:50:24.3942 [DEBUG] Disconnecting from room (91773:SceneFusion:SceneFusion)
+2019-03-03 11:50:24.4061 [INFO] Disconnected from server.
+2019-03-03 11:50:24.4061 [DEBUG] Disconnect. (Duration: 654)
